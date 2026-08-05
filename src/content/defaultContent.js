@@ -183,11 +183,11 @@ export const DEFAULT_CONTENT = {
     upcoming: [
       {
         id: 1,
-        name: 'RoboBlitz 2025',
-        date: 'August 15, 2025',
-        category: 'Competition',
-        description: 'Annual robotics challenge where teams design and program autonomous bots to navigate obstacle courses under strict time limits.',
-        registrationLink: '#',
+        name: 'Mobile Manipulators',
+        date: 'June 7, 2026',
+        category: 'Workshop',
+        description: 'Step into the world of advanced robotics and explore how mobile robots are designed, simulated, and controlled.',
+        registrationLink: '#https://learning.ccbp.in/event-details/f811a48e-25fb-4b21-a89c-cdcfc1fd5c6d',
         tag: 'Upcoming',
       },
       {
