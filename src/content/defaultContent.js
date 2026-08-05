@@ -261,9 +261,9 @@ export const DEFAULT_CONTENT = {
         bio: "Driving vision and strategy for Advanced Tech Club's growth and innovation.",
       },
       {
-        name: 'Deekshith',
+        name: 'Deekshith Rokkam',
         role: 'Vice President',
-        initials: 'DK',
+        initials: 'DR',
         bio: 'Supporting operations and bridging team collaboration across all domains.',
       },
       {
