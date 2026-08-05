@@ -291,7 +291,7 @@ export const DEFAULT_CONTENT = {
         bio: "Shaping the visual identity and creative direction of ATC's brand.",
       },
       {
-        name: 'Tanmay',
+        name: 'Raja Karthik',
         role: 'Social Media Head',
         initials: 'TM',
         bio: "Amplifying ATC's presence and story across digital platforms.",
