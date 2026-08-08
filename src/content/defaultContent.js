@@ -273,9 +273,9 @@ export const DEFAULT_CONTENT = {
         bio: 'Orchestrating seamless execution of events, workshops, and club activities.',
       },
       {
-        name: 'Narendra',
+        name: 'Digvijay',
         role: 'Finance Head',
-        initials: 'NR',
+        initials: 'DV',
         bio: 'Managing club finances and ensuring sustainable resource allocation.',
       },
       {
@@ -293,7 +293,7 @@ export const DEFAULT_CONTENT = {
       {
         name: 'Raja Karthik',
         role: 'Social Media Head',
-        initials: 'TM',
+        initials: 'RK',
         bio: "Amplifying ATC's presence and story across digital platforms.",
       },
     ],
